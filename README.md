@@ -30,9 +30,6 @@ Cargue los fixtures: `docker compose run web python manage.py loaddata fixtures/
 * Dependencias
 Para configuración local Docker
 * Configuración de la base de datos
-### Cómo ejecutar Tests Unitarios ###
-  Para ejecutar los test unitrarios se usa el siguiente comando:
-  `docker compose run web python manage.py test`
 * Instrucciones de implementación (Deployment)
 
 ### Pautas de contribución ###
