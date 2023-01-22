@@ -1,0 +1,50 @@
+[
+    {
+        "model":"api.state",
+        "pk":1,
+        "fields":{
+            "name": "Cataluña",
+            "code": "001",
+            "country":[2]
+
+        }
+    },
+    {
+        "model":"api.state",
+        "pk":2,
+        "fields":{
+            "name": "Valdivia",
+            "code": "002",
+            "country":[6]
+        }
+    },
+    {
+        "model":"api.state",
+        "pk":3,
+        "fields":{
+            "name": "Fife",
+            "code": "003",
+            "country":[4]
+
+
+        }
+    },
+    {
+        "model":"api.state",
+        "pk":4,
+        "fields":{
+            "name": "Luya",
+            "code": "004",
+            "country":[8]
+        }
+    },
+    {
+        "model":"api.state",
+        "pk":5,
+        "fields":{
+            "name": "Bahia",
+            "code": "005",
+            "country":[9]
+        }
+    }
+]

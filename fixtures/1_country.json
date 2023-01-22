@@ -1,0 +1,86 @@
+[
+    {
+        "model":"api.country",
+        "pk":1,
+        "fields":{
+            "name": "Colombia",
+            "code": "001"
+
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":2,
+        "fields":{
+            "name": "Spain",
+            "code": "002"
+
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":3,
+        "fields":{
+            "name": "Mexico",
+            "code": "003"
+
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":4,
+        "fields":{
+            "name": "Scotland",
+            "code": "004"
+
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":5,
+        "fields":{
+            "name": "Jamaica",
+            "code": "005"
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":6,
+        "fields":{
+            "name": "Chile",
+            "code": "006"
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":7,
+        "fields":{
+            "name": "Argentina",
+            "code": "007"
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":8,
+        "fields":{
+            "name": "Peru",
+            "code": "008"
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":9,
+        "fields":{
+            "name": "Brasil",
+            "code": "009"
+        }
+    },
+    {
+        "model":"api.country",
+        "pk":10,
+        "fields":{
+            "name": "Uruguay",
+            "code": "0010"
+        }
+    }
+]

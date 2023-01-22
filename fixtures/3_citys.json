@@ -1,0 +1,21 @@
+[
+    {
+        "model":"api.city",
+        "pk":1,
+        "fields":{
+            "name": "Barcelona",
+            "code": "001",
+            "state":[1]
+
+        }
+    },
+    {
+        "model":"api.city",
+        "pk":2,
+        "fields":{
+            "name": "Luya",
+            "code": "002",
+            "state":[4]
+        }
+    }
+]
